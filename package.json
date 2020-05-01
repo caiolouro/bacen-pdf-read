@@ -1,0 +1,28 @@
+{
+  "name": "bacen-pdf-read",
+  "version": "1.0.0",
+  "description": "Use Node.js to read a PDF containing the official brazilian banks provided by BACEN.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiolouro/bacen-pdf-read.git"
+  },
+  "keywords": [
+    "bacen",
+    "banks",
+    "pdf",
+    "node.js"
+  ],
+  "author": "Caio Louro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caiolouro/bacen-pdf-read/issues"
+  },
+  "homepage": "https://github.com/caiolouro/bacen-pdf-read#readme",
+  "dependencies": {
+    "pdfreader": "^1.0.7"
+  }
+}
